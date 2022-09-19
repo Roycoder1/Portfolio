@@ -1,12 +1,12 @@
 
-const welcome = document.getElementById("welcome");
+// const welcome = document.getElementById("welcome");
 
-const welcText = 'Welcome!';
+// const welcText = 'Full Stack Developer!';
 
-for (let i = 0; i < welcText.length; i++) {
-    setTimeout(() => {
+// for (let i = 0; i < welcText.length; i++) {
+//     setTimeout(() => {
         
-        welcome.innerText += welcText[i];
-    }, i * 100);
+//         welcome.innerText += welcText[i];
+//     }, i * 125);
     
-}
+// }
